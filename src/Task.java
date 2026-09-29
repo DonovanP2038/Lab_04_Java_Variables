@@ -5,5 +5,5 @@ void main() {
     double priceOfGas = 3.25;
     int myFavoriteNumber = 7;
     double myShoeSize = 10.5;
-    String myFullName = "Donovan Pierce";
+    String myFullName = "Donovan C. Pierce";
 }
